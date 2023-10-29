@@ -1,0 +1,22 @@
+
+.test{
+    display: flex;
+}
+
+button{
+    
+    padding-left: 40px;
+
+    width: 195px;
+    height: 60px;
+    border-radius: 30px;
+}
+.card-body h5{
+Font:'Poppins';
+color: #C98A40;
+width:900;
+Size:16px;
+font-weight: bold;
+height:24px;
+
+}

@@ -1,0 +1,9 @@
+p{
+    height: 350px;
+    width: auto;
+    padding-right: 30px;
+}
+
+.content{
+    display: flex;
+}

@@ -1,0 +1,8 @@
+.row .test{
+    display:flex;
+}
+.img{
+    background-color: '#C98A40';
+    background-image: url('../../assets/images/Rectangle 264.png');
+    
+}

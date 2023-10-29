@@ -1,0 +1,22 @@
+.content{
+    display: flex;
+    text-align: center;
+    background-image:url('../../assets/images/Mask Group-1.png');
+    color: #C98A40;
+    margin: 60px 60px;
+
+
+}
+.content div{
+    text-align: center;
+    padding:  20px 20px;
+}
+.im{
+    text-align: center;
+}
+.im button{
+    padding-left: 40px;
+    width: 195px;
+    height: 60px;
+    border-radius: 30px;
+}
